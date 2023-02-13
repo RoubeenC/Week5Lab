@@ -16,4 +16,5 @@
         <h2>Hello ${user.user}</h2>
         <a href="login?logout">Log out</a>
     </body>
+    ${result}
 </html>
