@@ -15,6 +15,5 @@
         <h1>Home Page</h1>
         <h2>Hello ${sessionusername.username}</h2>
         <a href="login?logout">Log out</a>
-        <!--<a href="login?logout">Log out</a>-->
     </body>
 </html>
