@@ -9,9 +9,14 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Login Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
-    </body>
+        <h1>Login</h1>
+        <form>
+            <input type="text" name="username" value="">
+            <input type="text" name="password" value="">
+            <input type="submit" value="Login">
+        </form>
+    </body
 </html>
